@@ -1,0 +1,2 @@
+The new skin 'Fuerte', made using jQuery, suit perfectly to the new responsive templates, which adapt automatically to the resolutions of the devices that display the site (smartphones, tablets, netbooks, etc ...).
+Ozio Gallery is made in Italy by http://www.joomla.it
